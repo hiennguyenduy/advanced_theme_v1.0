@@ -5,5 +5,5 @@
 ## Cách sử dụng
 Các bạn clone code về folder themes trong bộ source code Wordpress của các bạn
 
-# Thông tin tác giả
+## Thông tin tác giả
 Các bạn có thể kết nối với (anh/em) **Nguyễn Duy Hiển** thông qua linkedin: [https://www.linkedin.com/in/hiennguyenduy/](https://www.linkedin.com/in/hiennguyenduy/)
